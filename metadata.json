@@ -1,0 +1,7 @@
+{
+  "name": "AI Jargon Buster",
+  "description": "Translate complex technical documentation, code snippets, and architecture specs into ELI5, Executive, and Deep Technical explanations with interactive glossaries and audio narration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for the AI Jargon Buster application, featuring modern developer workbench design with dark/light themes, multi-tone explanations ('Explain like I'm 5', 'Executive Summary', 'Deep Technical Breakdown'), interactive jargon highlighter with click-to-define terms, side-by-side tone comparison, audio speech playback, markdown export, shareable summary cards, and diverse preset snippets powered by server-side Gemini 3.8 models.",
+  "updatedAt":  "2026-10-29T11:12:59.183947996Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
